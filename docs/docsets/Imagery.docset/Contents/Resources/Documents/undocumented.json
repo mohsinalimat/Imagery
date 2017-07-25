@@ -156,98 +156,98 @@
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 582,
+      "line": 548,
       "symbol": "ImageryCache.CacheCheckResult.cached",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 582,
+      "line": 548,
       "symbol": "ImageryCache.CacheCheckResult.cached",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 582,
+      "line": 548,
       "symbol": "ImageryCache.CacheCheckResult.cached",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 582,
+      "line": 548,
       "symbol": "ImageryCache.CacheCheckResult.cached",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 583,
+      "line": 549,
       "symbol": "ImageryCache.CacheCheckResult.cacheType",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 583,
+      "line": 549,
       "symbol": "ImageryCache.CacheCheckResult.cacheType",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 583,
+      "line": 549,
       "symbol": "ImageryCache.CacheCheckResult.cacheType",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 583,
+      "line": 549,
       "symbol": "ImageryCache.CacheCheckResult.cacheType",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 658,
+      "line": 624,
       "symbol": "ImageryCache.cachePath(forComputedKey:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 658,
+      "line": 624,
       "symbol": "ImageryCache.cachePath(forComputedKey:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 658,
+      "line": 624,
       "symbol": "ImageryCache.cachePath(forComputedKey:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 658,
+      "line": 624,
       "symbol": "ImageryCache.cachePath(forComputedKey:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 706,
+      "line": 672,
       "symbol": "Imagery.shared",
       "symbol_kind": "source.lang.swift.decl.var.static",
       "warning": "undocumented"
     },
     {
       "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
-      "line": 706,
+      "line": 672,
       "symbol": "Imagery.shared",
       "symbol_kind": "source.lang.swift.decl.var.static",
       "warning": "undocumented"

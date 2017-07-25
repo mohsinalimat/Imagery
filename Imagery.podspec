@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Imagery"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "A lightweight library for downloading and cacheing image from the web."
   s.homepage     = "https://meniny.cn/"
   s.license      = { :type => "MIT", :file => "LICENSE" }

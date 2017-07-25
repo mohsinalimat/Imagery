@@ -34,6 +34,30 @@ class ViewController: UIViewController {
                                        completionHandler: nil)
         }
     }
+    
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+        
+        ImageryCache.clearMemoryCache()
+//        ImageryCache.clearDiskCache()
+//        ImageryCache.cleanExpiredDiskCache()
+//        ImageryCache.clearDiskCache {
+//            // code
+//        }
+//        ImageryCache.cleanExpiredDiskCache {
+//            // code
+//        }
+//
+//        ImageryCache.default.clearMemoryCache()
+//        ImageryCache.default.clearDiskCache()
+//        ImageryCache.default.cleanExpiredDiskCache()
+//        ImageryCache.default.clearDiskCache {
+//            // code
+//        }
+//        ImageryCache.default.cleanExpiredDiskCache { 
+//            // code
+//        }
+    }
 
 }
 

@@ -303,7 +303,8 @@
 <h2 id='license' class='heading'>License</h2>
 
 <p><code>Imagery</code> is open-sourced software, licensed under the <code>MIT</code> license.</p>
-<h2 id='basic-usage' class='heading'>Basic Usage</h2>
+<h2 id='samples' class='heading'>Samples</h2>
+<h4 id='basic-usage' class='heading'>Basic Usage</h4>
 
 <blockquote>
 <p>Use iOS for example</p>
@@ -338,6 +339,29 @@
             <span class="c1">//imageView.imagery.setImage(with: url, placeholder: placeholder)</span>
         <span class="p">}</span>
     <span class="p">}</span>
+<span class="p">}</span>
+</code></pre>
+<h4 id='clean-caches' class='heading'>Clean Caches</h4>
+<pre class="highlight swift"><code><span class="c1">// MARK: Class Methods</span>
+<span class="kt">ImageryCache</span><span class="o">.</span><span class="nf">clearMemoryCache</span><span class="p">()</span>
+<span class="kt">ImageryCache</span><span class="o">.</span><span class="nf">clearDiskCache</span><span class="p">()</span>
+<span class="kt">ImageryCache</span><span class="o">.</span><span class="nf">cleanExpiredDiskCache</span><span class="p">()</span>
+<span class="kt">ImageryCache</span><span class="o">.</span><span class="n">clearDiskCache</span> <span class="p">{</span>
+    <span class="c1">// code</span>
+<span class="p">}</span>
+<span class="kt">ImageryCache</span><span class="o">.</span><span class="n">cleanExpiredDiskCache</span> <span class="p">{</span>
+    <span class="c1">// code</span>
+<span class="p">}</span>
+
+<span class="c1">// MARK: Instance Methods</span>
+<span class="kt">ImageryCache</span><span class="o">.</span><span class="k">default</span><span class="o">.</span><span class="nf">clearMemoryCache</span><span class="p">()</span>
+<span class="kt">ImageryCache</span><span class="o">.</span><span class="k">default</span><span class="o">.</span><span class="nf">clearDiskCache</span><span class="p">()</span>
+<span class="kt">ImageryCache</span><span class="o">.</span><span class="k">default</span><span class="o">.</span><span class="nf">cleanExpiredDiskCache</span><span class="p">()</span>
+<span class="kt">ImageryCache</span><span class="o">.</span><span class="k">default</span><span class="o">.</span><span class="n">clearDiskCache</span> <span class="p">{</span>
+    <span class="c1">// code</span>
+<span class="p">}</span>
+<span class="kt">ImageryCache</span><span class="o">.</span><span class="k">default</span><span class="o">.</span><span class="n">cleanExpiredDiskCache</span> <span class="p">{</span>
+    <span class="c1">// code</span>
 <span class="p">}</span>
 </code></pre>
 

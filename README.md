@@ -45,7 +45,9 @@ You are welcome to fork and submit pull requests.
 
 `Imagery` is open-sourced software, licensed under the `MIT` license.
 
-## Basic Usage
+## Samples
+
+#### Basic Usage
 
 > Use iOS for example
 
@@ -80,5 +82,31 @@ class ViewController: UIViewController {
             //imageView.imagery.setImage(with: url, placeholder: placeholder)
         }
     }
+}
+```
+
+#### Clean Caches
+
+```swift
+// MARK: Class Methods
+ImageryCache.clearMemoryCache()
+ImageryCache.clearDiskCache()
+ImageryCache.cleanExpiredDiskCache()
+ImageryCache.clearDiskCache {
+    // code
+}
+ImageryCache.cleanExpiredDiskCache {
+    // code
+}
+
+// MARK: Instance Methods
+ImageryCache.default.clearMemoryCache()
+ImageryCache.default.clearDiskCache()
+ImageryCache.default.cleanExpiredDiskCache()
+ImageryCache.default.clearDiskCache {
+    // code
+}
+ImageryCache.default.cleanExpiredDiskCache {
+    // code
 }
 ```

@@ -369,6 +369,15 @@ open class ImageryCache {
         return diskImage(forComputedKey: computedKey, serializer: options.cacheSerializer, options: options)
     }
 
+    
+    // MARK: - Clear & Clean
+    
+    /**
+     Clear memory cache.
+     */
+    @objc public class func clearMemoryCache() {
+        ImageryCache.default.clearMemoryCache()
+    }
 
     // MARK: - Clear & Clean
 
@@ -377,6 +386,15 @@ open class ImageryCache {
     */
     @objc public func clearMemoryCache() {
         memoryCache.removeAllObjects()
+    }
+    
+    /**
+     Clear disk cache. This is an async operation.
+     
+     - parameter completionHander: Called after the operation completes.
+     */
+    open class func clearDiskCache(completion handler: (()->())? = nil) {
+        ImageryCache.default.clearDiskCache(completion: handler)
     }
     
     /**
@@ -404,6 +422,22 @@ open class ImageryCache {
     */
     @objc fileprivate func cleanExpiredDiskCache() {
         cleanExpiredDiskCache(completion: nil)
+    }
+    
+    /**
+     Clean expired disk cache. This is an async operation.
+     */
+    @objc fileprivate class func cleanExpiredDiskCache() {
+        ImageryCache.default.cleanExpiredDiskCache()
+    }
+    
+    /**
+     Clean expired disk cache. This is an async operation.
+     
+     - parameter completionHandler: Called after the operation completes.
+     */
+    open class func cleanExpiredDiskCache(completion handler: (()->())? = nil) {
+        ImageryCache.default.cleanExpiredDiskCache(completion: handler)
     }
     
     /**
