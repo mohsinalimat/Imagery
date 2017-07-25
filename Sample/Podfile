@@ -1,0 +1,30 @@
+
+def imagery()
+    use_frameworks!
+    pod 'Imagery', :path => '../'
+end
+
+target 'Sample' do
+    platform :ios, '9.0'
+    imagery()
+end
+
+target 'macOS' do
+    platform :osx, '10.10'
+    imagery()
+end
+
+target 'watchOS' do
+    platform :watchos, '2.0'
+    imagery()
+end
+
+target 'tvOS' do
+    platform :tvos, '9.0'
+    imagery()
+end
+
+target 'watchOS Extension' do
+    platform :watchos, '2.0'
+    imagery()
+end

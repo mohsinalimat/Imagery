@@ -1,0 +1,16 @@
+PODS:
+  - Imagery (1.0.0)
+
+DEPENDENCIES:
+  - Imagery (from `../`)
+
+EXTERNAL SOURCES:
+  Imagery:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Imagery: dd5bd8262fb2a579b5d4e7f31e601a35b1395d04
+
+PODFILE CHECKSUM: 78a37da7a69f7e594b63f175101c5ac2592cfc7b
+
+COCOAPODS: 1.2.1

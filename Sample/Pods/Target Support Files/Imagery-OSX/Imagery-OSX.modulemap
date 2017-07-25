@@ -1,0 +1,6 @@
+framework module Imagery {
+  umbrella header "Imagery-OSX-umbrella.h"
+
+  export *
+  module * { export * }
+}

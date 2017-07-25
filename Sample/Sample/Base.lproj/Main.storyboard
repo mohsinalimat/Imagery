@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="k6a-rs-KQx">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Imagery-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Sample" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="5GU-1U-XWw">
+                                <rect key="frame" x="123" y="269" width="128" height="128"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="5GU-1U-XWw" secondAttribute="height" id="0aP-kl-yc2"/>
+                                    <constraint firstAttribute="width" constant="128" id="lDf-3V-zD3"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lem-o4-hxG">
+                                <rect key="frame" x="123" y="231" width="128" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="dga-x9-vDu"/>
+                                </constraints>
+                                <state key="normal" title="Button"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="5GU-1U-XWw" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="4bG-Q6-Q7r"/>
+                            <constraint firstItem="Lem-o4-hxG" firstAttribute="centerX" secondItem="5GU-1U-XWw" secondAttribute="centerX" id="HUL-mA-oQy"/>
+                            <constraint firstItem="Lem-o4-hxG" firstAttribute="width" secondItem="5GU-1U-XWw" secondAttribute="width" id="Ics-aj-3ZP"/>
+                            <constraint firstItem="5GU-1U-XWw" firstAttribute="top" secondItem="Lem-o4-hxG" secondAttribute="bottom" constant="8" id="WjC-d1-xI3"/>
+                            <constraint firstItem="5GU-1U-XWw" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="ijD-dZ-IXd"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="Imagery" id="09X-RW-m6B"/>
+                    <connections>
+                        <outlet property="button" destination="Lem-o4-hxG" id="0XE-L8-ckg"/>
+                        <outlet property="imageView" destination="5GU-1U-XWw" id="vfa-AI-xfZ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1056.8" y="123.68815592203899"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="n73-az-Ed5">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="k6a-rs-KQx" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="3e0-Y0-Exa">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="pGN-mh-xEm"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Pu5-O2-Snz" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="117.59999999999999" y="777.66116941529242"/>
+        </scene>
+    </scenes>
+</document>
