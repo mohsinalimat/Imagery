@@ -25,7 +25,7 @@ class ViewController: UIViewController {
             
             button.tintColor = .clear
             
-            button.imagery.setBackgroundImage(with: url, for: .normal)
+            button.imagery.setBackgroundImage(with: url, for: .normal, placeholder: nil)
             
             imageView.imagery.setImage(with: url,
                                        placeholder: placeholder,

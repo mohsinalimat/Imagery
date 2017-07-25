@@ -130,7 +130,7 @@ extension Imagery where Base: UIButton {
     @discardableResult
     public func setBackgroundImage(with resource: ImageryResource?,
                                    for state: UIControlState,
-                                   placeholder: UIImage? = nil,
+                                   placeholder: UIImage?,
                                    options: ImageryOptionsInfo? = nil,
                                    progressBlock: ImageryDownloadProgressBlock? = nil,
                                    completionHandler: ImageryCompletionHandler? = nil) -> ImageryRetrieveImageTask

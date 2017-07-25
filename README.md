@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.loli.net/2017/07/25/597765d9704f0.png" alt="Imagery">
   <br/><a href="https://cocoapods.org/pods/Imagery">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1.0-brightgreen.svg">
   <img alt="Author" src="https://img.shields.io/badge/author-Meniny-blue.svg">
   <img alt="Build Passing" src="https://img.shields.io/badge/build-passing-brightgreen.svg">
   <img alt="Swift" src="https://img.shields.io/badge/swift-3.0%2B-orange.svg">
@@ -70,7 +70,7 @@ class ViewController: UIViewController {
             let placeholder = UIImage(named: "placeholder")
             // let placeholder = #imageLiteral(resourceName: "placeholder")
 
-            button.imagery.setBackgroundImage(with: url, for: .normal)
+            button.imagery.setBackgroundImage(with: url, for: .normal, placeholder: nil)
             //button.imagery.setImage(with: url, for: .normal)
 
             imageView.imagery.setImage(with: url,
@@ -78,7 +78,6 @@ class ViewController: UIViewController {
                                        options: nil,
                                        progressBlock: nil,
                                        completionHandler: nil)
-            //imageView.imagery.setImage(with: url)
             //imageView.imagery.setImage(with: url, placeholder: placeholder)
         }
     }

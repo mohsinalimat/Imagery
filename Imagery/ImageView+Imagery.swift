@@ -55,7 +55,7 @@ extension Imagery where Base: ImageViewType {
      */
     @discardableResult
     public func setImage(with resource: ImageryResource?,
-                         placeholder: ImageType? = nil,
+                         placeholder: ImageType?,
                          options: ImageryOptionsInfo? = nil,
                          progressBlock: ImageryDownloadProgressBlock? = nil,
                          completionHandler: ImageryCompletionHandler? = nil) -> ImageryRetrieveImageTask {

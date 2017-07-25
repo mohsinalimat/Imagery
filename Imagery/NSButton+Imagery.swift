@@ -125,7 +125,7 @@ extension Imagery where Base: NSButton {
      */
     @discardableResult
     public func setAlternateImage(with resource: ImageryResource?,
-                                  placeholder: ImageType? = nil,
+                                  placeholder: ImageType?,
                                   options: ImageryOptionsInfo? = nil,
                                   progressBlock: ImageryDownloadProgressBlock? = nil,
                                   completionHandler: ImageryCompletionHandler? = nil) -> ImageryRetrieveImageTask
