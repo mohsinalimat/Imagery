@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ImageryManager Class Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Class/ImageryManager" class="dashAnchor"></a>
+    <a title="ImageryManager Class Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html">Imagery Docs</a> (79% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html">Imagery Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        ImageryManager Class Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/AnimatedImageView.html">AnimatedImageView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ImageDownloader.html">ImageDownloader</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ImagePrefetcher.html">ImagePrefetcher</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/Imagery.html">Imagery</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ImageryCache.html">ImageryCache</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ImageryCache/CacheCheckResult.html">– CacheCheckResult</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ImageryManager.html">ImageryManager</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/ImageryRetrieveImageTask.html">ImageryRetrieveImageTask</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes.html#/s:C7Imagery5Proxy">Proxy</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Global Variables.html">Global Variables</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:v7Imagery30ImageryDiskCacheCleanedHashKeySS">ImageryDiskCacheCleanedHashKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:v7Imagery18ImageryErrorDomainSS">ImageryErrorDomain</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:v7Imagery25ImageryErrorStatusCodeKeySS">ImageryErrorStatusCodeKey</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enums</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/ContentMode.html">ContentMode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageProcessItem.html">ImageProcessItem</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageryCacheType.html">ImageryCacheType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageryError.html">ImageryError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageryImageTransition.html">ImageryImageTransition</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageryImageTransition.html">ImageryImageTransition</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageryIndicatorType.html">ImageryIndicatorType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/ImageryOptionsInfoItem.html">ImageryOptionsInfoItem</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Extensions.html">Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Extensions/CGSize.html">CGSize</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Collection.html">Collection</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Data.html">Data</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Imagery.html">Imagery</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/Notification.html">Notification</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/String.html">String</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/UIButton.html">UIButton</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/URL.html">URL</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Functions.html">Functions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Functions.html#/s:F7Imageryoi2ggFTPS_14ImageProcessor_PS0___PS0__">&gt;&gt;(_:_:)</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Protocols/AuthenticationChallengeResponsable.html">AuthenticationChallengeResponsable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/CIImageProcessor.html">CIImageProcessor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/CacheSerializer.html">CacheSerializer</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ImageDownloadRequestModifier.html">ImageDownloadRequestModifier</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ImageDownloaderDelegate.html">ImageDownloaderDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ImageProcessor.html">ImageProcessor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ImageryCompatible.html">ImageryCompatible</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ImageryIndicator.html">ImageryIndicator</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ImageryResource.html">ImageryResource</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Structs.html">Structs</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/AnyModifier.html">AnyModifier</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/BlackWhiteProcessor.html">BlackWhiteProcessor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/BlurImageProcessor.html">BlurImageProcessor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs.html#/s:V7Imagery11CGSizeProxy">CGSizeProxy</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/ColorControlsProcessor.html">ColorControlsProcessor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/CroppingImageProcessor.html">CroppingImageProcessor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs.html#/s:V7Imagery9DataProxy">DataProxy</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/DefaultCacheSerializer.html">DefaultCacheSerializer</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/DefaultImageProcessor.html">DefaultImageProcessor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/Filter.html">Filter</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/FormatIndicatedCacheSerializer.html">FormatIndicatedCacheSerializer</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/ImageResource.html">ImageResource</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/OverlayImageProcessor.html">OverlayImageProcessor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/RectCorner.html">RectCorner</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/ResizingImageProcessor.html">ResizingImageProcessor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/RetrieveImageDownloadTask.html">RetrieveImageDownloadTask</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/RoundCornerImageProcessor.html">RoundCornerImageProcessor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs.html#/s:V7Imagery11StringProxy">StringProxy</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Structs/TintImageProcessor.html">TintImageProcessor</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Typealiases.html">Typealiases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7Imagery39ImageDownloaderImageryCompletionHandler">ImageDownloaderImageryCompletionHandler</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7Imagery28ImageDownloaderProgressBlock">ImageDownloaderProgressBlock</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7Imagery25ImageryCIImageTransformer">ImageryCIImageTransformer</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7Imagery18ImageryOptionsInfo">ImageryOptionsInfo</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7Imagery41ImageryPrefetcherImageryCompletionHandler">ImageryPrefetcherImageryCompletionHandler</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7Imagery30ImageryPrefetcherProgressBlock">ImageryPrefetcherProgressBlock</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:7Imagery28ImageryRetrieveImageDiskTask">ImageryRetrieveImageDiskTask</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>ImageryManager</h1>
+              <div class="declaration">
+                <div class="language">
+                  <pre class="highlight"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">ImageryManager</span></code></pre>
+
+                </div>
+              </div>
+            <p>Main manager class of Imagery. It connects Imagery downloader and cache.
+You can use this class to retrieve an image via a specified URL from web or cache.</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:ZvC7Imagery14ImageryManager6sharedS0_"></a>
+                    <a name="//apple_ref/swift/Variable/shared" class="dashAnchor"></a>
+                    <a class="token" href="#/s:ZvC7Imagery14ImageryManager6sharedS0_">shared</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Shared manager used by the extensions across Imagery.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">shared</span> <span class="o">=</span> <span class="kt">ImageryManager</span><span class="p">()</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:vC7Imagery14ImageryManager5cacheCS_12ImageryCache"></a>
+                    <a name="//apple_ref/swift/Property/cache" class="dashAnchor"></a>
+                    <a class="token" href="#/s:vC7Imagery14ImageryManager5cacheCS_12ImageryCache">cache</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Cache used by this manager</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">cache</span><span class="p">:</span> <span class="kt"><a href="../Classes/ImageryCache.html">ImageryCache</a></span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:vC7Imagery14ImageryManager10downloaderCS_15ImageDownloader"></a>
+                    <a name="//apple_ref/swift/Property/downloader" class="dashAnchor"></a>
+                    <a class="token" href="#/s:vC7Imagery14ImageryManager10downloaderCS_15ImageDownloader">downloader</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Downloader used by this manager</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">downloader</span><span class="p">:</span> <span class="kt"><a href="../Classes/ImageDownloader.html">ImageDownloader</a></span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:vC7Imagery14ImageryManager14defaultOptionsGSaOS_22ImageryOptionsInfoItem_"></a>
+                    <a name="//apple_ref/swift/Property/defaultOptions" class="dashAnchor"></a>
+                    <a class="token" href="#/s:vC7Imagery14ImageryManager14defaultOptionsGSaOS_22ImageryOptionsInfoItem_">defaultOptions</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Default options used by the manager. This option will be used in 
+Imagery manager related methods, including all image view and 
+button extension methods. You can also passing the options per image by 
+sending an <code>options</code> parameter to Imagery&rsquo;s APIs, the per image option 
+will overwrite the default ones if exist.</p>
+<div class="aside aside-note">
+    <p class="aside-title">Note</p>
+    This option will not be applied to independent using of <code><a href="../Classes/ImageDownloader.html">ImageDownloader</a></code> or <code><a href="../Classes/ImageryCache.html">ImageryCache</a></code>.
+
+</div>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">defaultOptions</span> <span class="o">=</span> <span class="kt">ImageryEmptyOptionsInfo</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:FC7Imagery14ImageryManager13retrieveImageFT4withPS_15ImageryResource_7optionsGSqGSaOS_22ImageryOptionsInfoItem__13progressBlockGSqFTVs5Int64S3__T__17completionHandlerGSqFTGSqCSo7UIImage_GSqCSo7NSError_OS_16ImageryCacheTypeGSqV10Foundation3URL__T___CS_24ImageryRetrieveImageTask"></a>
+                    <a name="//apple_ref/swift/Method/retrieveImage(with:options:progressBlock:completionHandler:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:FC7Imagery14ImageryManager13retrieveImageFT4withPS_15ImageryResource_7optionsGSqGSaOS_22ImageryOptionsInfoItem__13progressBlockGSqFTVs5Int64S3__T__17completionHandlerGSqFTGSqCSo7UIImage_GSqCSo7NSError_OS_16ImageryCacheTypeGSqV10Foundation3URL__T___CS_24ImageryRetrieveImageTask">retrieveImage(with:options:progressBlock:completionHandler:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Get an image with resource.
+If ImageryOptions.None is used as <code>options</code>, Imagery will seek the image in memory and disk first.
+If not found, it will download the image at <code>resource.downloadURL</code> and cache it with <code>resource.cacheKey</code>.
+These default behaviors could be adjusted by passing different options. See <code>ImageryOptions</code> for more.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">retrieveImage</span><span class="p">(</span><span class="n">with</span> <span class="nv">resource</span><span class="p">:</span> <span class="kt"><a href="../Protocols/ImageryResource.html">ImageryResource</a></span><span class="p">,</span>
+        <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="../Typealiases.html#/s:7Imagery18ImageryOptionsInfo">ImageryOptionsInfo</a></span><span class="p">?,</span>
+        <span class="nv">progressBlock</span><span class="p">:</span> <span class="kt">ImageryDownloadProgressBlock</span><span class="p">?,</span>
+        <span class="nv">completionHandler</span><span class="p">:</span> <span class="kt">ImageryCompletionHandler</span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt"><a href="../Classes/ImageryRetrieveImageTask.html">ImageryRetrieveImageTask</a></span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>resource</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>ImageryResource object contains information such as <code>cacheKey</code> and <code>downloadURL</code>.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>options</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>A dictionary could control some behaviors. See <code>ImageryOptionsInfo</code> for more.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>progressBlock</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>Called every time downloaded data changed. This could be used as a progress UI.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>completionHandler</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>Called when the whole retrieving process finished.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <div>
+                        <h4>Return Value</h4>
+                        <p>A <code><a href="../Classes/ImageryRetrieveImageTask.html">ImageryRetrieveImageTask</a></code> task object. You can use this object to cancel the task.</p>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:FC7Imagery14ImageryManager13retrieveImageFT4withPS_15ImageryResource_7optionsGSqGSaOS_22ImageryOptionsInfoItem__13progressBlockGSqFTVs5Int64S3__T__17completionHandlerGSqFTGSqCSo7NSImage_GSqCSo7NSError_OS_16ImageryCacheTypeGSqV10Foundation3URL__T___CS_24ImageryRetrieveImageTask"></a>
+                    <a name="//apple_ref/swift/Method/retrieveImage(with:options:progressBlock:completionHandler:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:FC7Imagery14ImageryManager13retrieveImageFT4withPS_15ImageryResource_7optionsGSqGSaOS_22ImageryOptionsInfoItem__13progressBlockGSqFTVs5Int64S3__T__17completionHandlerGSqFTGSqCSo7NSImage_GSqCSo7NSError_OS_16ImageryCacheTypeGSqV10Foundation3URL__T___CS_24ImageryRetrieveImageTask">retrieveImage(with:options:progressBlock:completionHandler:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Get an image with resource.
+If ImageryOptions.None is used as <code>options</code>, Imagery will seek the image in memory and disk first.
+If not found, it will download the image at <code>resource.downloadURL</code> and cache it with <code>resource.cacheKey</code>.
+These default behaviors could be adjusted by passing different options. See <code>ImageryOptions</code> for more.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">retrieveImage</span><span class="p">(</span><span class="n">with</span> <span class="nv">resource</span><span class="p">:</span> <span class="kt"><a href="../Protocols/ImageryResource.html">ImageryResource</a></span><span class="p">,</span>
+        <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="../Typealiases.html#/s:7Imagery18ImageryOptionsInfo">ImageryOptionsInfo</a></span><span class="p">?,</span>
+        <span class="nv">progressBlock</span><span class="p">:</span> <span class="kt">ImageryDownloadProgressBlock</span><span class="p">?,</span>
+        <span class="nv">completionHandler</span><span class="p">:</span> <span class="kt">ImageryCompletionHandler</span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt"><a href="../Classes/ImageryRetrieveImageTask.html">ImageryRetrieveImageTask</a></span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>resource</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>ImageryResource object contains information such as <code>cacheKey</code> and <code>downloadURL</code>.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>options</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>A dictionary could control some behaviors. See <code>ImageryOptionsInfo</code> for more.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>progressBlock</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>Called every time downloaded data changed. This could be used as a progress UI.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>completionHandler</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>Called when the whole retrieving process finished.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <div>
+                        <h4>Return Value</h4>
+                        <p>A <code><a href="../Classes/ImageryRetrieveImageTask.html">ImageryRetrieveImageTask</a></code> task object. You can use this object to cancel the task.</p>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2017 <a class="link" href="https://meniny.cn/" target="_blank" rel="external">Elias Abel</a>. All rights reserved. (Last updated: 2017-07-26)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.8.2</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>

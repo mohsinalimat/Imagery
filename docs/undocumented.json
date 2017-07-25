@@ -1,0 +1,1762 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/AnimatedImageView.swift",
+      "line": 89,
+      "symbol": "AnimatedImageView.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/AnimatedImageView.swift",
+      "line": 89,
+      "symbol": "AnimatedImageView.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/AnimatedImageView.swift",
+      "line": 105,
+      "symbol": "AnimatedImageView.isAnimating",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/AnimatedImageView.swift",
+      "line": 105,
+      "symbol": "AnimatedImageView.isAnimating",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/AnimatedImageView.swift",
+      "line": 130,
+      "symbol": "AnimatedImageView.display(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/AnimatedImageView.swift",
+      "line": 130,
+      "symbol": "AnimatedImageView.display(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/AnimatedImageView.swift",
+      "line": 138,
+      "symbol": "AnimatedImageView.didMoveToWindow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/AnimatedImageView.swift",
+      "line": 138,
+      "symbol": "AnimatedImageView.didMoveToWindow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/AnimatedImageView.swift",
+      "line": 143,
+      "symbol": "AnimatedImageView.didMoveToSuperview()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/AnimatedImageView.swift",
+      "line": 143,
+      "symbol": "AnimatedImageView.didMoveToSuperview()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.disk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.disk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.disk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.disk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.memory",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.memory",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.memory",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.memory",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 62,
+      "symbol": "ImageryCacheType.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 548,
+      "symbol": "ImageryCache.CacheCheckResult.cached",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 548,
+      "symbol": "ImageryCache.CacheCheckResult.cached",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 548,
+      "symbol": "ImageryCache.CacheCheckResult.cached",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 548,
+      "symbol": "ImageryCache.CacheCheckResult.cached",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 549,
+      "symbol": "ImageryCache.CacheCheckResult.cacheType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 549,
+      "symbol": "ImageryCache.CacheCheckResult.cacheType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 549,
+      "symbol": "ImageryCache.CacheCheckResult.cacheType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 549,
+      "symbol": "ImageryCache.CacheCheckResult.cacheType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 624,
+      "symbol": "ImageryCache.cachePath(forComputedKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 624,
+      "symbol": "ImageryCache.cachePath(forComputedKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 624,
+      "symbol": "ImageryCache.cachePath(forComputedKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 624,
+      "symbol": "ImageryCache.cachePath(forComputedKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 672,
+      "symbol": "Imagery.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Cache.swift",
+      "line": 672,
+      "symbol": "Imagery.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/CacheSerializer.swift",
+      "line": 62,
+      "symbol": "DefaultCacheSerializer.default",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/CacheSerializer.swift",
+      "line": 62,
+      "symbol": "DefaultCacheSerializer.default",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/CacheSerializer.swift",
+      "line": 62,
+      "symbol": "DefaultCacheSerializer.default",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/CacheSerializer.swift",
+      "line": 62,
+      "symbol": "DefaultCacheSerializer.default",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Filter.swift",
+      "line": 40,
+      "symbol": "CIImageProcessor.filter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Filter.swift",
+      "line": 40,
+      "symbol": "CIImageProcessor.filter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Filter.swift",
+      "line": 40,
+      "symbol": "CIImageProcessor.filter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Filter.swift",
+      "line": 59,
+      "symbol": "Filter.init(tranform:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Filter.swift",
+      "line": 59,
+      "symbol": "Filter.init(tranform:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Filter.swift",
+      "line": 59,
+      "symbol": "Filter.init(tranform:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 54,
+      "symbol": "FormatIndicatedCacheSerializer.png",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 54,
+      "symbol": "FormatIndicatedCacheSerializer.png",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 54,
+      "symbol": "FormatIndicatedCacheSerializer.png",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 54,
+      "symbol": "FormatIndicatedCacheSerializer.png",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 55,
+      "symbol": "FormatIndicatedCacheSerializer.jpeg",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 55,
+      "symbol": "FormatIndicatedCacheSerializer.jpeg",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 55,
+      "symbol": "FormatIndicatedCacheSerializer.jpeg",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 55,
+      "symbol": "FormatIndicatedCacheSerializer.jpeg",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 56,
+      "symbol": "FormatIndicatedCacheSerializer.gif",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 56,
+      "symbol": "FormatIndicatedCacheSerializer.gif",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 56,
+      "symbol": "FormatIndicatedCacheSerializer.gif",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/FormatIndicatedCacheSerializer.swift",
+      "line": 56,
+      "symbol": "FormatIndicatedCacheSerializer.gif",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 176,
+      "symbol": "Imagery.pngRepresentation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 176,
+      "symbol": "Imagery.pngRepresentation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 176,
+      "symbol": "Imagery.pngRepresentation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 176,
+      "symbol": "Imagery.pngRepresentation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 189,
+      "symbol": "Imagery.jpegRepresentation(compressionQuality:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 189,
+      "symbol": "Imagery.jpegRepresentation(compressionQuality:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 189,
+      "symbol": "Imagery.jpegRepresentation(compressionQuality:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 189,
+      "symbol": "Imagery.jpegRepresentation(compressionQuality:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 202,
+      "symbol": "Imagery.gifRepresentation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 202,
+      "symbol": "Imagery.gifRepresentation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 202,
+      "symbol": "Imagery.gifRepresentation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 202,
+      "symbol": "Imagery.gifRepresentation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 438,
+      "symbol": "Imagery.crop(to:anchorOn:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 438,
+      "symbol": "Imagery.crop(to:anchorOn:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 438,
+      "symbol": "Imagery.crop(to:anchorOn:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 438,
+      "symbol": "Imagery.crop(to:anchorOn:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 670,
+      "symbol": "DataProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 670,
+      "symbol": "DataProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 670,
+      "symbol": "DataProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 670,
+      "symbol": "DataProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 679,
+      "symbol": "Data.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 679,
+      "symbol": "Data.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 679,
+      "symbol": "Data.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 679,
+      "symbol": "Data.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 706,
+      "symbol": "CGSizeProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 706,
+      "symbol": "CGSizeProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 706,
+      "symbol": "CGSizeProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 706,
+      "symbol": "CGSizeProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 715,
+      "symbol": "CGSize.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 715,
+      "symbol": "CGSize.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 715,
+      "symbol": "CGSize.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Image.swift",
+      "line": 715,
+      "symbol": "CGSize.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": null,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 46,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 46,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 46,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 46,
+      "symbol": "Imagery",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 47,
+      "symbol": "Imagery.base",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 47,
+      "symbol": "Imagery.base",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 47,
+      "symbol": "Imagery.base",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 47,
+      "symbol": "Imagery.base",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 48,
+      "symbol": "Imagery.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 48,
+      "symbol": "Imagery.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 48,
+      "symbol": "Imagery.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 48,
+      "symbol": "Imagery.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 58,
+      "symbol": "ImageryCompatible.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 58,
+      "symbol": "ImageryCompatible.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 58,
+      "symbol": "ImageryCompatible.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 58,
+      "symbol": "ImageryCompatible.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 62,
+      "symbol": "ImageryCompatible.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 62,
+      "symbol": "ImageryCompatible.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 62,
+      "symbol": "ImageryCompatible.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Imagery.swift",
+      "line": 62,
+      "symbol": "ImageryCompatible.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": null,
+      "symbol": "ImageryIndicator",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": null,
+      "symbol": "ImageryIndicator",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": null,
+      "symbol": "ImageryIndicator",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 39,
+      "symbol": "ImageryIndicatorType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 39,
+      "symbol": "ImageryIndicatorType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 39,
+      "symbol": "ImageryIndicatorType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 51,
+      "symbol": "ImageryIndicator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 51,
+      "symbol": "ImageryIndicator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 51,
+      "symbol": "ImageryIndicator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 52,
+      "symbol": "ImageryIndicator.startAnimatingView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 52,
+      "symbol": "ImageryIndicator.startAnimatingView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 52,
+      "symbol": "ImageryIndicator.startAnimatingView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 53,
+      "symbol": "ImageryIndicator.stopAnimatingView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 53,
+      "symbol": "ImageryIndicator.stopAnimatingView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 53,
+      "symbol": "ImageryIndicator.stopAnimatingView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 55,
+      "symbol": "ImageryIndicator.viewCenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 55,
+      "symbol": "ImageryIndicator.viewCenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 55,
+      "symbol": "ImageryIndicator.viewCenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 56,
+      "symbol": "ImageryIndicator.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 56,
+      "symbol": "ImageryIndicator.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 56,
+      "symbol": "ImageryIndicator.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 61,
+      "symbol": "ImageryIndicator.viewCenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 76,
+      "symbol": "ImageryIndicator.viewCenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Indicator.swift",
+      "line": 76,
+      "symbol": "ImageryIndicator.viewCenter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Manager.swift",
+      "line": 40,
+      "symbol": "ImageryRetrieveImageTask.empty",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Manager.swift",
+      "line": 40,
+      "symbol": "ImageryRetrieveImageTask.empty",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Manager.swift",
+      "line": 40,
+      "symbol": "ImageryRetrieveImageTask.empty",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Manager.swift",
+      "line": 40,
+      "symbol": "ImageryRetrieveImageTask.empty",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Options.swift",
+      "line": 301,
+      "symbol": "Collection.onlyLoadFirstFrame",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Options.swift",
+      "line": 301,
+      "symbol": "Collection.onlyLoadFirstFrame",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Options.swift",
+      "line": 301,
+      "symbol": "Collection.onlyLoadFirstFrame",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Options.swift",
+      "line": 301,
+      "symbol": "Collection.onlyLoadFirstFrame",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Options.swift",
+      "line": 305,
+      "symbol": "Collection.cacheOriginalImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Options.swift",
+      "line": 305,
+      "symbol": "Collection.cacheOriginalImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Options.swift",
+      "line": 305,
+      "symbol": "Collection.cacheOriginalImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Options.swift",
+      "line": 305,
+      "symbol": "Collection.cacheOriginalImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 35,
+      "symbol": "ImageProcessItem.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 35,
+      "symbol": "ImageProcessItem.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 35,
+      "symbol": "ImageProcessItem.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 35,
+      "symbol": "ImageProcessItem.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 36,
+      "symbol": "ImageProcessItem.data",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 36,
+      "symbol": "ImageProcessItem.data",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 36,
+      "symbol": "ImageProcessItem.data",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 36,
+      "symbol": "ImageProcessItem.data",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 143,
+      "symbol": "RectCorner",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 143,
+      "symbol": "RectCorner",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 143,
+      "symbol": "RectCorner",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 143,
+      "symbol": "RectCorner",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 145,
+      "symbol": "RectCorner.topLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 145,
+      "symbol": "RectCorner.topLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 145,
+      "symbol": "RectCorner.topLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 145,
+      "symbol": "RectCorner.topLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 146,
+      "symbol": "RectCorner.topRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 146,
+      "symbol": "RectCorner.topRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 146,
+      "symbol": "RectCorner.topRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 146,
+      "symbol": "RectCorner.topRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 147,
+      "symbol": "RectCorner.bottomLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 147,
+      "symbol": "RectCorner.bottomLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 147,
+      "symbol": "RectCorner.bottomLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 147,
+      "symbol": "RectCorner.bottomLeft",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 148,
+      "symbol": "RectCorner.bottomRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 148,
+      "symbol": "RectCorner.bottomRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 148,
+      "symbol": "RectCorner.bottomRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 148,
+      "symbol": "RectCorner.bottomRight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 149,
+      "symbol": "RectCorner.all",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 149,
+      "symbol": "RectCorner.all",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 149,
+      "symbol": "RectCorner.all",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 149,
+      "symbol": "RectCorner.all",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 225,
+      "symbol": "ContentMode.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 225,
+      "symbol": "ContentMode.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 225,
+      "symbol": "ContentMode.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 225,
+      "symbol": "ContentMode.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 226,
+      "symbol": "ContentMode.aspectFit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 226,
+      "symbol": "ContentMode.aspectFit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 226,
+      "symbol": "ContentMode.aspectFit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 226,
+      "symbol": "ContentMode.aspectFit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 227,
+      "symbol": "ContentMode.aspectFill",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 227,
+      "symbol": "ContentMode.aspectFill",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 227,
+      "symbol": "ContentMode.aspectFill",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Processor.swift",
+      "line": 227,
+      "symbol": "ContentMode.aspectFill",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Proxy.swift",
+      "line": 11,
+      "symbol": "Proxy",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Proxy.swift",
+      "line": 11,
+      "symbol": "Proxy",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Proxy.swift",
+      "line": 11,
+      "symbol": "Proxy",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Proxy.swift",
+      "line": 11,
+      "symbol": "Proxy",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 31,
+      "symbol": "ImageDownloadRequestModifier.modified(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 31,
+      "symbol": "ImageDownloadRequestModifier.modified(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 31,
+      "symbol": "ImageDownloadRequestModifier.modified(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 31,
+      "symbol": "ImageDownloadRequestModifier.modified(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 42,
+      "symbol": "AnyModifier",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 42,
+      "symbol": "AnyModifier",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 42,
+      "symbol": "AnyModifier",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 42,
+      "symbol": "AnyModifier",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 46,
+      "symbol": "AnyModifier.modified(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 46,
+      "symbol": "AnyModifier.modified(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 46,
+      "symbol": "AnyModifier.modified(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 46,
+      "symbol": "AnyModifier.modified(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 50,
+      "symbol": "AnyModifier.init(modify:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 50,
+      "symbol": "AnyModifier.init(modify:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 50,
+      "symbol": "AnyModifier.init(modify:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/RequestModifier.swift",
+      "line": 50,
+      "symbol": "AnyModifier.init(modify:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/String+MD5.swift",
+      "line": 8,
+      "symbol": "StringProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/String+MD5.swift",
+      "line": 8,
+      "symbol": "StringProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/String+MD5.swift",
+      "line": 8,
+      "symbol": "StringProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/String+MD5.swift",
+      "line": 8,
+      "symbol": "StringProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/String+MD5.swift",
+      "line": 17,
+      "symbol": "String.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/String+MD5.swift",
+      "line": 17,
+      "symbol": "String.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/String+MD5.swift",
+      "line": 17,
+      "symbol": "String.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/String+MD5.swift",
+      "line": 17,
+      "symbol": "String.imagery",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Transition.swift",
+      "line": 34,
+      "symbol": "ImageryImageTransition.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Imagery/Imagery/Transition.swift",
+      "line": 44,
+      "symbol": "ImageryImageTransition.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/Meniny/Projects/Github/Imagery"
+}
